@@ -7,7 +7,7 @@ https://www.addictinggames.com/clicker/rotare
 This tutorial was made for <b>Hector Pulido</b> for his youtube channel <br/>
 https://www.youtube.com/c/HectorAndresPulidoPalmar <br/>
 And his Twitch Channel<br/>
-https://www.twitch.tv/hector_pulido_<br/>
+[https://www.twitch.tv/hector_pulido_](https://www.twitch.tv/hector_pulido_)<br/>
 
 ## HOW TO USE
 1. Create a new project 
